@@ -1,6 +1,6 @@
 <h2 align="center">Hey, im Gabriel Alex</h2>
 
-20 years old brazilian, transitioning from back-end to frond-end developing.
+<p>20 years old brazilian, transitioning from back-end to frond-end developing.</p>
 
 <br />
 
@@ -12,7 +12,7 @@
 [<img align="left" alt="NodeJs" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin: 0 8px 0 8px"/>][node]
 [<img align="left" alt="Typescript" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="margin: 0 8px 0 8px"/>][typescript]
 [<img align="left" alt="Javascript" width="22px" src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" style="margin: 0 8px 0 8px"/>][javascript]
-[<img align="left" alt="React" width="22px" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png" style="margin: 0 8px 0 8px"/>][react]
+[<img align="left" alt="React" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="margin: 0 8px 0 8px"/>][react]
 [<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="margin: 0 8px 0 8px"/>][mysql]
 [<img align="left" alt="C#" width="32px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="margin: 0 8px 0 8px"/>][c#]
 
