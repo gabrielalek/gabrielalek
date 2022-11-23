@@ -21,13 +21,15 @@
 
 <br />
 
+**Socials**
+
 [linkedin]: https://www.linkedin.com/in/gabriel-alex-0a2551208/
 [instagram]: https://www.instagram.com/al_eek/
 
 [typescript]: https://www.typescriptlang.org/
 [mysql]: https://www.mysql.com/
 [node]: https://nodejs.org
-[c#]: https://nodejs.org](https://learn.microsoft.com/en-us/dotnet/csharp/
+[c#]: https://learn.microsoft.com/en-us/dotnet/csharp/
 [javascript]: https://www.javascript.com/
 [react]: https://reactjs.org/
 
