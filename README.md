@@ -1,4 +1,4 @@
-<h2 align="center">Hi, 🤙 i am Luiz A. Butkeivicz</h2>
+<h2 align="center">Hey, im Gabriel Alex</h2>
 
 20 years old brazilian, transitioning from back-end to frond-end developing.
 
