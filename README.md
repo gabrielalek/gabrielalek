@@ -26,7 +26,7 @@
 <br />
 <hr />
 
-[linkedin]: https://www.linkedin.com/in/gabriel-alex-0a2551208/
+[linkedin]: https://www.linkedin.com/in/gabrielalek/
 [instagram]: https://www.instagram.com/al_eek/
 
 [typescript]: https://www.typescriptlang.org/
